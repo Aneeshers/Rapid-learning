@@ -1,4 +1,5 @@
 # PSY 2350R: Laboratory on Reinforcement Learning and Decision Making Semester Report
+**PI:** Sam Gershman
 **Author:** Aneesh Muppidi  
 **Email:** aneeshmuppidi@college.harvard.edu
 
